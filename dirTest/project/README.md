@@ -1,3 +1,20 @@
+# EVALUACIÓN 1
+
+Dentro de lo modificado en el archivo wcat.c, se da un código para testear su funcionamiento.
+
+![imagen de git bash](https://github.com/hacUPB/evaluacion-1-SheiinX/blob/main/dirTest/project/img/GitBash-GitLog.png)
+
+![Repositorio de evaluación de Sebastián Franco](https://github.com/hacUPB/evaluacion-1-SheiinX)
+
+Comandos utilizados para la modificación del repositorio:
+- git clone {url del repositorio} (Clonar el repositorio)
+- cd ./ (Ubicarme dentro de los discos)
+- code . (Abrir Visual para configurar tanto el código wcat.c como el README.md)
+- git status (Controlar que se ha cambiado y que está fuera)
+- git add {Nombre de archivo} (Ponerl en el stage el archivo en cuestion, wcat.c)
+- git commit -m "sample text" (Hacer un commit)
+- git push (Sincronizar con el repositorio en linea y guardar el commit en tal)
+- git log (Ver los commit hechos)
 
 In this directory, you should write the program `wcat.c` and compile it into
 the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
